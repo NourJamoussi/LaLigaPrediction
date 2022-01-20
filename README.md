@@ -1,4 +1,4 @@
-# LaLiga games predictions 
+# La Liga games predictions 
 ## Malis Project 
 ### Introduction : 
 The project aim is to have an accuracy as good as possible on predicting football matches results. Our choice of the Spanish
